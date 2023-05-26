@@ -1,0 +1,45 @@
+body{
+    background-color:lightblue;
+}
+.wrap{
+    width: 1200px;
+    margin: 50px auto;
+}
+h1{
+    font-size: 40px;
+}
+.ass{
+    width: 100%;
+    height: 60px;
+    line-height: 5px;
+    background-color: darkseagreen;
+    color: white;
+    font-size: 25px;
+}
+.asd{
+    float: left;
+    margin-left: 100px;
+    margin-right: 800px;
+}
+.dsa{
+    float: left;
+}
+.ghj{
+    width: 100%;
+    margin-top: 30px;
+
+}
+.opl{
+    float: left;
+    width: 30%;
+    margin-right: 5%;
+}
+.uio{
+    float: left;
+    width: 65%;
+    margin-top: -30px;
+}
+
+.clear{
+    clear: both;
+}
